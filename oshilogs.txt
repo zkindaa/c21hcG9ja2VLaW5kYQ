@@ -1,0 +1,396 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VLaW5kYQ/c21hcG9ja2VLaW5kYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Kinda =====
+[1]Kinda       |09:06:59 | 11-10-2026| login OK @kindazerica | score=920 rank=6397
+[1]Kinda       |09:06:59 | 11-10-2026| serverTime=2026-10-11T09:06:59.000Z local=2026-10-11T09:06:59.978Z
+--> [1]Kinda menjalankan: Claim Daily
+[1]Kinda       |09:07:01 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Kinda menjalankan: Auto All Tasks (2 pending)
+[1]Kinda       |09:07:03 | 11-10-2026| [1/2] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kindazerica/status/2109208790635174640
+[1]Kinda       |09:07:03 | 11-10-2026| delay 10s...
+[1]Kinda       |09:07:21 | 11-10-2026| [2/2] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kindazerica/status/2109208566371585270
+[1]Kinda       |09:07:21 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kinda       |09:07:22 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/kindazerica/status/2109208671727631228
+--> [1]Kinda menjalankan: Watch Anime
+[1]Kinda       |09:07:23 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Kinda       |09:07:23 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Kinda       |09:07:26 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Kinda       |09:07:33 | 11-10-2026| watch oshi-first-journey: 6% (5.66/87.00s)
+[1]Kinda       |09:07:39 | 11-10-2026| watch oshi-first-journey: 13% (11.33/87.00s)
+[1]Kinda       |09:07:48 | 11-10-2026| watch oshi-first-journey: 19% (16.72/87.00s)
+[1]Kinda       |09:07:54 | 11-10-2026| watch oshi-first-journey: 27% (23.55/87.00s)
+[1]Kinda       |09:08:00 | 11-10-2026| watch oshi-first-journey: 33% (28.93/87.00s)
+[1]Kinda       |09:08:07 | 11-10-2026| watch oshi-first-journey: 39% (34.53/87.00s)
+[1]Kinda       |09:08:13 | 11-10-2026| watch oshi-first-journey: 46% (40.30/87.00s)
+[1]Kinda       |09:08:20 | 11-10-2026| watch oshi-first-journey: 52% (45.69/87.00s)
+[1]Kinda       |09:08:26 | 11-10-2026| watch oshi-first-journey: 59% (51.90/87.00s)
+[1]Kinda       |09:08:32 | 11-10-2026| watch oshi-first-journey: 65% (57.32/87.00s)
+[1]Kinda       |09:08:38 | 11-10-2026| watch oshi-first-journey: 72% (62.92/87.00s)
+[1]Kinda       |09:08:45 | 11-10-2026| watch oshi-first-journey: 78% (68.31/87.00s)
+[1]Kinda       |09:08:51 | 11-10-2026| watch oshi-first-journey: 85% (74.30/87.00s)
+[1]Kinda       |09:08:58 | 11-10-2026| watch oshi-first-journey: 91% (79.69/87.00s)
+[1]Kinda       |09:08:58 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.69/87.00s)
+--> [1]Kinda menjalankan: Read Article
+[1]Kinda       |09:08:59 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Kinda       |09:08:59 | 11-10-2026| mint eligibility: {"userId":"2011447392286187520","youtube":{"url":"https://www.youtube.com/@kindazerica","status":"submitted","revision":"3caba48e-c8ca-41a7-884c-f8973481e4e5","submittedAt":1791685295,"reviewedAt":179
+[1]Kinda       |09:08:59 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Kinda menjalankan: Quiz Anime
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Kinda       |09:09:00 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Kinda menjalankan: Music Missions (realtime, bisa lama!)
+[1]Kinda       |09:09:03 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Kinda       |09:09:16 | 11-10-2026| music "神様みたいに": 3% (9.0045/254s)
+[1]Kinda       |09:09:29 | 11-10-2026| music "神様みたいに": 8% (20.3274/254s)
+[1]Kinda       |09:09:41 | 11-10-2026| music "神様みたいに": 12% (32.6079/254s)
+[1]Kinda       |09:09:52 | 11-10-2026| music "神様みたいに": 17% (43.4772/254s)
+[1]Kinda       |09:10:03 | 11-10-2026| music "神様みたいに": 21% (53.3988/254s)
+[1]Kinda       |09:10:14 | 11-10-2026| music "神様みたいに": 24% (63.1197/254s)
+[1]Kinda       |09:10:26 | 11-10-2026| music "神様みたいに": 28% (73.2033/254s)
+[1]Kinda       |09:10:37 | 11-10-2026| music "神様みたいに": 32% (83.3454/254s)
+[1]Kinda       |09:10:50 | 11-10-2026| music "神様みたいに": 36% (93.6225/254s)
+[1]Kinda       |09:11:03 | 11-10-2026| music "神様みたいに": 41% (105.3396/254s)
+[1]Kinda       |09:11:15 | 11-10-2026| music "神様みたいに": 46% (116.9649/254s)
+[1]Kinda       |09:11:26 | 11-10-2026| music "神様みたいに": 50% (127.6119/254s)
+[1]Kinda       |09:11:37 | 11-10-2026| music "神様みたいに": 54% (138.12120000000002/254s)
+[1]Kinda       |09:11:49 | 11-10-2026| music "神様みたいに": 58% (147.8367/254s)
+[1]Kinda       |09:12:00 | 11-10-2026| music "神様みたいに": 62% (158.1732/254s)
+[1]Kinda       |09:12:10 | 11-10-2026| music "神様みたいに": 66% (167.9067/254s)
+[1]Kinda       |09:12:22 | 11-10-2026| music "神様みたいに": 69% (177.7077/254s)
+[1]Kinda       |09:12:33 | 11-10-2026| music "神様みたいに": 73% (187.7481/254s)
+[1]Kinda       |09:12:45 | 11-10-2026| music "神様みたいに": 78% (198.3357/254s)
+[1]Kinda       |09:12:58 | 11-10-2026| music "神様みたいに": 82% (208.8171/254s)
+[1]Kinda       |09:13:00 | 11-10-2026| music "神様みたいに": selesai 208.8171s
+[1]Kinda       |09:13:02 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Kinda       |09:13:13 | 11-10-2026| music "せーので、飛ぼう！": 3% (9/269s)
+[1]Kinda       |09:13:24 | 11-10-2026| music "せーので、飛ぼう！": 7% (18.882/269s)
+[1]Kinda       |09:13:35 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.6074/269s)
+[1]Kinda       |09:13:46 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.2652/269s)
+[1]Kinda       |09:13:58 | 11-10-2026| music "せーので、飛ぼう！": 18% (49.0113/269s)
+[1]Kinda       |09:14:08 | 11-10-2026| music "せーので、飛ぼう！": 22% (59.2713/269s)
+[1]Kinda       |09:14:19 | 11-10-2026| music "せーので、飛ぼう！": 25% (68.9796/269s)
+[1]Kinda       |09:14:30 | 11-10-2026| music "せーので、飛ぼう！": 29% (78.8823/269s)
+[1]Kinda       |09:14:43 | 11-10-2026| music "せーので、飛ぼう！": 33% (88.8615/269s)
+[1]Kinda       |09:14:54 | 11-10-2026| music "せーので、飛ぼう！": 37% (99.78120000000001/269s)
+[1]Kinda       |09:15:04 | 11-10-2026| music "せーので、飛ぼう！": 40% (109.66770000000001/269s)
+[1]Kinda       |09:15:16 | 11-10-2026| music "せーので、飛ぼう！": 44% (119.38320000000002/269s)
+[1]Kinda       |09:15:28 | 11-10-2026| music "せーので、飛ぼう！": 48% (129.6576/269s)
+[1]Kinda       |09:15:38 | 11-10-2026| music "せーので、飛ぼう！": 52% (140.2722/269s)
+[1]Kinda       |09:15:49 | 11-10-2026| music "せーので、飛ぼう！": 55% (149.994/269s)
+[1]Kinda       |09:16:01 | 11-10-2026| music "せーので、飛ぼう！": 59% (159.8481/269s)
+[1]Kinda       |09:16:11 | 11-10-2026| music "せーので、飛ぼう！": 63% (170.01/269s)
+[1]Kinda       |09:16:22 | 11-10-2026| music "せーので、飛ぼう！": 66% (179.72459999999998/269s)
+[1]Kinda       |09:16:34 | 11-10-2026| music "せーので、飛ぼう！": 70% (189.4509/269s)
+[1]Kinda       |09:16:44 | 11-10-2026| music "せーので、飛ぼう！": 74% (199.7928/269s)
+[1]Kinda       |09:16:56 | 11-10-2026| music "せーので、飛ぼう！": 77% (209.5002/269s)
+[1]Kinda       |09:17:07 | 11-10-2026| music "せーので、飛ぼう！": 81% (220.10670000000002/269s)
+[1]Kinda       |09:17:08 | 11-10-2026| music "せーので、飛ぼう！": selesai 220.10670000000002s
+[1]Kinda       |09:17:13 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Kinda       |09:17:24 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0009/276s)
+[1]Kinda       |09:17:37 | 11-10-2026| music "ON CHAIN NEXUS": 7% (19.53/276s)
+[1]Kinda       |09:17:48 | 11-10-2026| music "ON CHAIN NEXUS": 11% (30.976200000000002/276s)
+[1]Kinda       |09:17:59 | 11-10-2026| music "ON CHAIN NEXUS": 14% (40.682700000000004/276s)
+[1]Kinda       |09:18:12 | 11-10-2026| music "ON CHAIN NEXUS": 18% (50.505300000000005/276s)
+[1]Kinda       |09:18:23 | 11-10-2026| music "ON CHAIN NEXUS": 22% (62.40690000000001/276s)
+[1]Kinda       |09:18:34 | 11-10-2026| music "ON CHAIN NEXUS": 26% (72.50130000000001/276s)
+[1]Kinda       |09:18:45 | 11-10-2026| music "ON CHAIN NEXUS": 29% (82.19340000000001/276s)
+[1]Kinda       |09:18:56 | 11-10-2026| music "ON CHAIN NEXUS": 33% (92.1825/276s)
+[1]Kinda       |09:19:08 | 11-10-2026| music "ON CHAIN NEXUS": 36% (101.9727/276s)
+[1]Kinda       |09:19:19 | 11-10-2026| music "ON CHAIN NEXUS": 41% (113.3064/276s)
+[1]Kinda       |09:19:30 | 11-10-2026| music "ON CHAIN NEXUS": 44% (123.0174/276s)
+[1]Kinda       |09:19:41 | 11-10-2026| music "ON CHAIN NEXUS": 48% (132.7959/276s)
+[1]Kinda       |09:19:53 | 11-10-2026| music "ON CHAIN NEXUS": 51% (142.9821/276s)
+[1]Kinda       |09:20:05 | 11-10-2026| music "ON CHAIN NEXUS": 55% (153.36180000000002/276s)
+[1]Kinda       |09:20:16 | 11-10-2026| music "ON CHAIN NEXUS": 59% (164.19600000000003/276s)
+[1]Kinda       |09:20:28 | 11-10-2026| music "ON CHAIN NEXUS": 63% (174.02580000000003/276s)
+[1]Kinda       |09:20:39 | 11-10-2026| music "ON CHAIN NEXUS": 67% (185.08320000000003/276s)
+[1]Kinda       |09:20:50 | 11-10-2026| music "ON CHAIN NEXUS": 70% (194.78880000000004/276s)
+[1]Kinda       |09:21:02 | 11-10-2026| music "ON CHAIN NEXUS": 74% (204.93720000000005/276s)
+[1]Kinda       |09:21:15 | 11-10-2026| music "ON CHAIN NEXUS": 78% (215.64360000000005/276s)
+[1]Kinda       |09:21:27 | 11-10-2026| music "ON CHAIN NEXUS": 82% (227.18160000000006/276s)
+[1]Kinda       |09:21:27 | 11-10-2026| music "ON CHAIN NEXUS": selesai 227.18160000000006s
+[1]Kinda       |09:21:29 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kinda       |09:21:30 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Kinda       |09:21:35 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Kinda       |09:21:39 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Kinda menjalankan: Claim Missions
+[1]Kinda       |09:21:43 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Kinda       |09:21:43 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kinda       |09:21:43 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kinda menjalankan: Check Eligibility
+
+--- eligibility [1]Kinda ---
+  @kindazerica | score=920 rank=6397
+  tasks    [###################-] 74/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Kinda menjalankan: Read Manga
+[1]Kinda       |09:21:49 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Kinda       |09:21:49 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Kinda       |09:21:57 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Kinda       |09:22:02 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 7s
+[1]Kinda       |09:22:09 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 13s
+[1]Kinda       |09:22:13 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 20s
+[1]Kinda       |09:22:19 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 24s
+[1]Kinda       |09:22:23 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 29s
+[1]Kinda       |09:22:28 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 34s
+[1]Kinda       |09:22:32 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 38s
+[1]Kinda       |09:22:37 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 43s
+[1]Kinda       |09:22:42 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 48s
+[1]Kinda       |09:22:47 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 53s
+[1]Kinda       |09:22:51 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 57s
+[1]Kinda       |09:22:56 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 61s
+[1]Kinda       |09:23:02 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 67s
+[1]Kinda       |09:23:09 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 73s
+[1]Kinda       |09:23:13 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 80s
+[1]Kinda       |09:23:18 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 84s
+[1]Kinda       |09:23:22 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 88s
+[1]Kinda       |09:23:26 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 92s
+[1]Kinda       |09:23:31 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Kinda       |09:23:34 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Kinda       |09:23:40 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Kinda       |09:23:45 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Kinda       |09:23:53 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 10s
+[1]Kinda       |09:23:57 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 18s
+[1]Kinda       |09:24:02 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 22s
+[1]Kinda       |09:24:07 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 27s
+[1]Kinda       |09:24:13 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 32s
+[1]Kinda       |09:24:18 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 37s
+[1]Kinda       |09:24:24 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 43s
+[1]Kinda       |09:24:28 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 48s
+[1]Kinda       |09:24:33 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 53s
+[1]Kinda       |09:24:38 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 57s
+[1]Kinda       |09:24:43 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 63s
+[1]Kinda       |09:24:47 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 68s
+[1]Kinda       |09:24:52 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 72s
+[1]Kinda       |09:24:56 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 76s
+[1]Kinda       |09:25:01 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 81s
+[1]Kinda       |09:25:05 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 86s
+[1]Kinda       |09:25:10 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Kinda       |09:25:13 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Kinda       |09:25:18 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Kinda       |09:25:23 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
+[1]Kinda       |09:25:29 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Kinda       |09:25:34 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Kinda       |09:25:38 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Kinda       |09:25:43 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 24s
+[1]Kinda       |09:25:47 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
+[1]Kinda       |09:25:52 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 33s
+[1]Kinda       |09:25:58 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 38s
+[1]Kinda       |09:26:02 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 44s
+[1]Kinda       |09:26:06 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 48s
+[1]Kinda       |09:26:12 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
+[1]Kinda       |09:26:16 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 57s
+[1]Kinda       |09:26:20 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 62s
+[1]Kinda       |09:26:25 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 66s
+[1]Kinda       |09:26:30 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 71s
+[1]Kinda       |09:26:35 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 76s
+[1]Kinda       |09:26:39 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Kinda       |09:26:42 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Kinda       |09:26:48 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Kinda       |09:26:52 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 4s
+[1]Kinda       |09:26:57 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Kinda       |09:27:01 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 13s
+[1]Kinda       |09:27:06 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 18s
+[1]Kinda       |09:27:11 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 22s
+[1]Kinda       |09:27:15 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
+[1]Kinda       |09:27:19 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 32s
+[1]Kinda       |09:27:24 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 36s
+[1]Kinda       |09:27:28 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 41s
+[1]Kinda       |09:27:33 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 45s
+[1]Kinda       |09:27:40 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 50s
+[1]Kinda       |09:27:44 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 56s
+[1]Kinda       |09:27:49 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 61s
+[1]Kinda       |09:27:54 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 66s
+[1]Kinda       |09:27:59 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 71s
+[1]Kinda       |09:28:04 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
+[1]Kinda       |09:28:10 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Kinda       |09:28:13 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Kinda       |09:28:19 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Kinda       |09:28:24 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
+[1]Kinda       |09:28:29 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Kinda       |09:28:34 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Kinda       |09:28:39 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Kinda       |09:28:44 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
+[1]Kinda       |09:28:48 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
+[1]Kinda       |09:28:53 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
+[1]Kinda       |09:28:59 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 38s
+[1]Kinda       |09:29:03 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 44s
+[1]Kinda       |09:29:07 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 48s
+[1]Kinda       |09:29:12 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 52s
+[1]Kinda       |09:29:16 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 57s
+[1]Kinda       |09:29:21 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 61s
+[1]Kinda       |09:29:25 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 66s
+[1]Kinda       |09:29:30 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 70s
+[1]Kinda       |09:29:34 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 75s
+[1]Kinda       |09:29:39 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 79s
+[1]Kinda       |09:29:43 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Kinda       |09:29:46 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Kinda       |09:29:54 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Kinda       |09:29:58 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 6s
+[1]Kinda       |09:30:03 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Kinda       |09:30:07 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 15s
+[1]Kinda       |09:30:11 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
+[1]Kinda       |09:30:16 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Kinda       |09:30:21 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 28s
+[1]Kinda       |09:30:25 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 33s
+[1]Kinda       |09:30:29 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
+[1]Kinda       |09:30:34 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 42s
+[1]Kinda       |09:30:38 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
+[1]Kinda       |09:30:44 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 51s
+[1]Kinda       |09:30:49 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 56s
+[1]Kinda       |09:30:53 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 61s
+[1]Kinda       |09:30:57 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 65s
+[1]Kinda       |09:31:02 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 70s
+[1]Kinda       |09:31:07 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 74s
+[1]Kinda       |09:31:11 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Kinda       |09:31:14 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Kinda       |09:31:20 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Kinda       |09:31:24 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
+[1]Kinda       |09:31:29 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Kinda       |09:31:33 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 13s
+[1]Kinda       |09:31:37 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 17s
+[1]Kinda       |09:31:42 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 22s
+[1]Kinda       |09:31:46 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 26s
+[1]Kinda       |09:31:51 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 31s
+[1]Kinda       |09:31:55 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 35s
+[1]Kinda       |09:31:59 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 40s
+[1]Kinda       |09:32:04 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 44s
+[1]Kinda       |09:32:09 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 49s
+[1]Kinda       |09:32:13 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 53s
+[1]Kinda       |09:32:17 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 57s
+[1]Kinda       |09:32:21 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 62s
+[1]Kinda       |09:32:26 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 66s
+[1]Kinda       |09:32:30 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 70s
+[1]Kinda       |09:32:35 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 75s
+[1]Kinda       |09:32:40 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 80s
+[1]Kinda       |09:32:44 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 84s
+[1]Kinda       |09:32:48 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 89s
+[1]Kinda       |09:32:53 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Kinda       |09:32:56 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Kinda       |09:33:01 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Kinda       |09:33:06 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
+[1]Kinda       |09:33:10 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Kinda       |09:33:14 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
+[1]Kinda       |09:33:19 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
+[1]Kinda       |09:33:23 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 22s
+[1]Kinda       |09:33:27 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 26s
+[1]Kinda       |09:33:31 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 30s
+[1]Kinda       |09:33:36 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 35s
+[1]Kinda       |09:33:40 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 39s
+[1]Kinda       |09:33:45 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 43s
+[1]Kinda       |09:33:49 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 48s
+[1]Kinda       |09:33:53 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 52s
+[1]Kinda       |09:33:58 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 57s
+[1]Kinda       |09:34:02 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 61s
+[1]Kinda       |09:34:07 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 66s
+[1]Kinda       |09:34:11 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 70s
+[1]Kinda       |09:34:15 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 74s
+[1]Kinda       |09:34:20 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Kinda       |09:34:23 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Kinda       |09:34:28 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Kinda       |09:34:32 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
+[1]Kinda       |09:34:36 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Kinda       |09:34:41 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 13s
+[1]Kinda       |09:34:45 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 17s
+[1]Kinda       |09:34:49 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 22s
+[1]Kinda       |09:34:54 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 26s
+[1]Kinda       |09:34:58 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 30s
+[1]Kinda       |09:35:03 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 35s
+[1]Kinda       |09:35:07 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 39s
+[1]Kinda       |09:35:12 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 44s
+[1]Kinda       |09:35:17 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 49s
+[1]Kinda       |09:35:21 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 53s
+[1]Kinda       |09:35:26 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 58s
+[1]Kinda       |09:35:30 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 62s
+[1]Kinda       |09:35:35 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 67s
+[1]Kinda       |09:35:39 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 71s
+[1]Kinda       |09:35:44 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 76s
+[1]Kinda       |09:35:49 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 80s
+[1]Kinda       |09:35:53 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 85s
+[1]Kinda       |09:35:59 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Kinda       |09:36:02 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Kinda       |09:36:08 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Kinda       |09:36:12 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
+[1]Kinda       |09:36:17 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Kinda       |09:36:21 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 13s
+[1]Kinda       |09:36:26 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 17s
+[1]Kinda       |09:36:30 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 22s
+[1]Kinda       |09:36:35 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
+[1]Kinda       |09:36:40 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 32s
+[1]Kinda       |09:36:44 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 36s
+[1]Kinda       |09:36:48 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Kinda       |09:36:51 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Kinda       |09:36:56 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Kinda       |09:37:01 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
+[1]Kinda       |09:37:05 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Kinda       |09:37:09 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 13s
+[1]Kinda       |09:37:14 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
+[1]Kinda       |09:37:18 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
+[1]Kinda       |09:37:23 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 26s
+[1]Kinda       |09:37:27 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 31s
+[1]Kinda       |09:37:31 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 35s
+[1]Kinda       |09:37:36 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 40s
+[1]Kinda       |09:37:40 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Kinda       |09:37:43 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Kinda       |09:37:48 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Kinda       |09:37:53 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Kinda       |09:37:57 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Kinda       |09:38:02 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
+[1]Kinda       |09:38:06 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Kinda       |09:38:11 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 22s
+[1]Kinda       |09:38:15 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
+[1]Kinda       |09:38:19 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 31s
+[1]Kinda       |09:38:24 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 35s
+[1]Kinda       |09:38:29 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 40s
+[1]Kinda       |09:38:33 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 45s
+[1]Kinda       |09:38:38 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Kinda       |09:38:41 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Kinda       |09:38:46 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Kinda       |09:38:50 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Kinda       |09:38:54 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Kinda       |09:38:59 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 13s
+[1]Kinda       |09:39:04 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
+[1]Kinda       |09:39:09 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
+[1]Kinda       |09:39:13 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
+[1]Kinda       |09:39:17 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 32s
+[1]Kinda       |09:39:22 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 36s
+[1]Kinda       |09:39:26 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 41s
+[1]Kinda       |09:39:31 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 45s
+[1]Kinda       |09:39:35 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Kinda menjalankan: Get Gift
+[1]Kinda       |09:39:38 | 11-10-2026| gift: 3/3 belum diterima
+[1]Kinda       |09:39:39 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Kinda       |09:39:42 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Kinda       |09:39:45 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Kinda menjalankan: Setup Profile
+[1]Kinda       |09:39:48 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Kinda       |09:39:48 | 11-10-2026| profile: OK bio="https://x.com/kindazerica" fav=mony awarded=true +10pt
+--> [1]Kinda menjalankan: Bind Wallet
+[1]Kinda       |09:39:49 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 73hks3t6vdNnzEKQTwHeameTV58vDvVr6MTW7whz6P3F (cek cocok dengan wallet kamu!)
+[1]Kinda       |09:39:50 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Kinda       |09:39:51 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Kinda: daily=already | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 3 trek ~656.1054000000001s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
