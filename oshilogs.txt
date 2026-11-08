@@ -12,41 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kinda =====
-[1]Kinda       |10:57:46 | 07-11-2026| login OK @kindazerica | score=2810 rank=2868
-[1]Kinda       |10:57:46 | 07-11-2026| serverTime=2026-11-07T10:57:46.000Z local=2026-11-07T10:57:46.513Z
+[1]Kinda       |08:48:27 | 08-11-2026| login OK @kindazerica | score=2860 rank=2819
+[1]Kinda       |08:48:27 | 08-11-2026| serverTime=2026-11-08T08:48:27.000Z local=2026-11-08T08:48:27.825Z
 --> [1]Kinda menjalankan: Claim Daily
-[1]Kinda       |10:57:48 | 07-11-2026| daily: OK +10 poin score=2820
+[1]Kinda       |08:48:29 | 08-11-2026| daily: OK +10 poin score=2870
 --> [1]Kinda menjalankan: Auto All Tasks (4 pending)
-[1]Kinda       |10:57:50 | 07-11-2026| [1/4] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/kindazerica/status/2119020921691077172
-[1]Kinda       |10:57:50 | 07-11-2026| delay 10s...
-[1]Kinda       |10:58:02 | 07-11-2026| [2/4] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/kindazerica/status/2119021160121199441
-[1]Kinda       |10:58:02 | 07-11-2026| delay 10s...
-[1]Kinda       |10:58:14 | 07-11-2026| [3/4] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/kindazerica/status/2119021110657860806
-[1]Kinda       |10:58:14 | 07-11-2026| delay 10s...
-[1]Kinda       |10:58:26 | 07-11-2026| [4/4] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/kindazerica/status/2119021195428592774
-[1]Kinda       |10:58:26 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kinda       |10:58:27 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/kindazerica/status/2119021324663885994
+[1]Kinda       |08:48:32 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/kindazerica/status/2119351038824498634
+[1]Kinda       |08:48:32 | 08-11-2026| delay 10s...
+[1]Kinda       |08:48:45 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/kindazerica/status/2119351067462304132
+[1]Kinda       |08:48:45 | 08-11-2026| delay 10s...
+[1]Kinda       |08:48:57 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/kindazerica/status/2119350981756155835
+[1]Kinda       |08:48:57 | 08-11-2026| delay 10s...
+[1]Kinda       |08:49:08 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/kindazerica/status/2119351036575955831
+[1]Kinda       |08:49:08 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kinda       |08:49:10 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/kindazerica/status/2119351047855875514
 --> [1]Kinda menjalankan: Watch Anime
-[1]Kinda       |10:58:28 | 07-11-2026| watch: semua video sudah completed
+[1]Kinda       |08:49:10 | 08-11-2026| watch: semua video sudah completed
 --> [1]Kinda menjalankan: Read Article
-[1]Kinda       |10:58:29 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Kinda       |10:58:30 | 07-11-2026| mint eligibility: {"userId":"2011447392286187520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kindazerica","status":"submitted","revision":"3caba48e-c8ca-41a7-884c-f8973481e4
-[1]Kinda       |10:58:30 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Kinda       |08:49:12 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kinda       |08:49:12 | 08-11-2026| mint eligibility: {"userId":"2011447392286187520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kindazerica","status":"submitted","revision":"3caba48e-c8ca-41a7-884c-f8973481e4
+[1]Kinda       |08:49:12 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Kinda menjalankan: Quiz Anime
 --> [1]Kinda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kinda       |10:58:32 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kinda       |10:58:33 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Kinda       |10:58:33 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kinda       |10:58:33 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kinda       |08:49:14 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kinda       |08:49:14 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Kinda       |08:49:14 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kinda       |08:49:14 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kinda menjalankan: Claim Missions
-[1]Kinda       |10:58:33 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Kinda       |10:58:33 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kinda       |10:58:33 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kinda       |08:49:15 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Kinda       |08:49:15 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kinda       |08:49:15 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kinda menjalankan: Check Eligibility
 
 --- eligibility [1]Kinda ---
-  @kindazerica | score=2810 rank=2868
-  tasks    [####----------------] 1/5
+  @kindazerica | score=2860 rank=2819
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kinda menjalankan: Read Manga
-[1]Kinda       |10:58:38 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Kinda       |08:49:18 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kinda menjalankan: Get Gift
-[1]Kinda       |10:58:39 | 07-11-2026| gift: 3/9 belum diterima
-[1]Kinda       |10:58:40 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kinda       |10:58:43 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kinda       |10:58:46 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kinda       |08:49:20 | 08-11-2026| gift: 3/9 belum diterima
+[1]Kinda       |08:49:20 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kinda       |08:49:23 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kinda       |08:49:26 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kinda menjalankan: Setup Profile
-[1]Kinda       |10:58:48 | 07-11-2026| profile: bio="https://x.com/kindazerica" fav=mony rewardAt=1791711588
-[1]Kinda       |10:58:48 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Kinda       |08:49:28 | 08-11-2026| profile: bio="https://x.com/kindazerica" fav=mony rewardAt=1791711588
+[1]Kinda       |08:49:28 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kinda menjalankan: Bind Wallet
-[1]Kinda       |10:58:49 | 07-11-2026| wallet: sudah terikat 73hks3t6vd... (solana)
+[1]Kinda       |08:49:28 | 08-11-2026| wallet: sudah terikat 73hks3t6vd... (solana)
 
 == RINGKASAN ==
 - Kinda: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
